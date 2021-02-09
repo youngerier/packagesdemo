@@ -1,4 +1,4 @@
-# packagesdemo
+# GitHubPackages demo
 
 set your own `gradle.properties`
 ```
